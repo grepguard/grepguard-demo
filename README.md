@@ -1,4 +1,4 @@
-# GrepGuard
+# GrepGuard Demo
 
 **AI-powered security reviews for AI-generated code.**
 
