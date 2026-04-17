@@ -6,7 +6,7 @@ GrepGuard analyzes code written by AI assistants (Cursor, Claude Code, GitHub Co
 
 ## Examples
 
-- [#1 Add API client script](https://github.com/grepguard/grepguard-demo/pull/1) - Hardcoded API key detected by GrepGuard
+- [Hardcoded API Key](https://github.com/grepguard/grepguard-demo/pull/1)
 
 ## License
 
