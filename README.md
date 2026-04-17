@@ -7,7 +7,3 @@ GrepGuard analyzes code written by AI assistants (Cursor, Claude Code, GitHub Co
 ## Examples
 
 - [Hardcoded API Key](https://github.com/grepguard/grepguard-demo/pull/1)
-
-## License
-
-MIT
